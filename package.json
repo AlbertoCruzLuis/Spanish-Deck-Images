@@ -1,0 +1,20 @@
+{
+  "name": "spanish-deck-images",
+  "version": "1.0.0",
+  "description": "Database for Spanish Deck Images",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoCruzLuis/Spanish-Deck-Images.git"
+  },
+  "keywords": [
+    "Spanish-Deck"
+  ],
+  "author": "Alberto Cruz Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertoCruzLuis/Spanish-Deck-Images/issues"
+  },
+  "homepage": "https://github.com/AlbertoCruzLuis/Spanish-Deck-Images#readme"
+}
